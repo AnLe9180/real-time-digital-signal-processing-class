@@ -1,0 +1,1 @@
+"./usbstk5505_led.obj" "./usbstk5505_i2c.obj" "./usbstk5505_gpio.obj" "./usbstk5505.obj" "./stereo.obj" "./main.obj" "./aic3204_init.obj" "./aic3204.obj" "./PLL.obj" "./LEDFlasher.obj" "../C5505.cmd" "../lib/55xdsph.lib" "../lib/CSLc55x5h.lib" -l"libc.a" 
